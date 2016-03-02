@@ -207,7 +207,7 @@ int main()
         {
             check[term++] = 'o';
         }
-        // >
+        // %
         if(input[curr] == '%')
         {
             check[term++] = 'o';
